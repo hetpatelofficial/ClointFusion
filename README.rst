@@ -130,23 +130,6 @@ Ubuntu :
 Features
 ========
 
-    *ClointFusion's Voice-Guided, Fully Automated Self-Test.*
-
-
-When you import ClointFusion for the first time, or upgrade to a new
-version, you'll be prompted with the "ClointFusion's Automated Self-Test"
-which highlights all of ClointFusion's 100+ features in action on your
-computer while also confirming ClointFusion's compatibility with your
-PC's settings and configurations. Once you have successfully completed
-the self-test, you will receive an email with a self-test report.
-
-Below is the speed up version of self-test.
-
-
-
-`Click here to watch the Self-Test in
-Action. <https://user-images.githubusercontent.com/67296473/139620682-d63f6ee6-a3f5-4ca9-9ea9-23216e571e3e.mp4>`__
-
 *    **DOST : Your friend in automation || Build RPA Bots without Code**
 
 
@@ -186,23 +169,6 @@ Ubuntu
 **Build BOT with DOST :** `DOST
 Website <https://dost.clointfusion.com/>`__
 
-BOL : Your automation voice based assistant
-*******************************************
-
-
-``BOL`` is voice based automation assistant designed to execute BOTs
-build out of ClointFusion without any human computer interaction.
-
-Usage of BOL
-~~~~~~~~~~~~
-
-Open your favorite terminal and type ``bol`` or ``sudo bol`` for ubuntu
-users. Within a moment, a personalized Virtual Assistant will be at your
-service.
-
-*Note: bol is currently in development stage. More functionalities
-are yet to be added.*
-
 WORK - The Work Hour Monitor
 """"""""""""""""""""""""""""
 
@@ -219,22 +185,6 @@ will be displayed.
 
 ***Note: All the information that is being collected by ``WORK`` is
 stored in a securely maintained database in your system.***
-
-WhatsApp Bot - Send bulk WhatsApp messages
-------------------------------------------
-
-
-ClointFusion's "WhatsApp Bot" is an automated utility tool that allows
-you to send many customized messages to your contacts at once.
-
-Usage of WhatsApp Bot:
-
-
-Open your favorite terminal and type ``cf_wm``, and give path of the
-excel, or ``cf_wm -e excel_path.xlsx``
-
-`Click here to watch the WhatsApp Bot in
-Action. <https://user-images.githubusercontent.com/67296473/139722199-37036526-2b1c-4120-a12d-bde3df2eb0d7.mp4>`__
 
 ClointFusion in Action
 ======================
