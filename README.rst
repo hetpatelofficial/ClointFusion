@@ -43,8 +43,56 @@ ClointFusion is now supported on Windows / Ubuntu / macOS* !
 Windows :
 ---------
 
+What is EXE?
+============
+
+An executable file (EXE file) is a computer file that contains an encoded sequence of instructions that the system can execute directly when the user clicks the file icon.
+
+Why to use EXE file?
+====================
+
+With the use of .exe file of ClointFusion the user doesn't require to install Python on the system as it gets intalled with the EXE file.Tthe user does not need to install the ClointFusion package through the command line the package also gets intalled with the exe. Its user interface is easy to understand and use. 
+
+How to download the EXE file?
+=============================
+
+Step 1: Download the EXE from the link given below
+
 Windows users can download EXE pre-loaded with Python 3.9 and ClointFusion package: 
 `Windows EXE <https://github.com/ClointFusion/ClointFusion/releases/download/v1.0.0/ClointFusion_Community_Edition.exe>`_
+
+Step 2: After download gets completed open the file and make sure that the checkbox of agreeing license terms and conditions is checked. Now Click on install.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/c47dfc1beba702b30de1d0db0bcbbfdbcf51510c/Intallation_1.jpg
+
+Step 3: Let the download get completed and after the completion of the download a finish button will be appeared.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Installation_2.jpg
+
+Registration
+============
+
+Step 1: Open the ClointFusion application and you will be able to see an UI similar to the one in the image given below. After that click on Register Button.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Registration_2.jpg
+
+Step 2: On clicking register a website of domain dev.dost.clointfusion.com will be opened. You can sign in using Google or through email.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Registraion_3.jpg
+
+Step 3: After getting logged in you will be seeing a Get Token button. Click on the Get Token button.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Registration_4.jpg
+
+Step 4: Click on the load icon to reload your token as your token appears you can copy it to clipboard through the copy icon next to reload.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Registraion_5.jpg
+
+Step 5: Open the ClointFusion Application and you can see a paste button using which we can paste the token directly. After pasting the token click on submit button to submit.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/4e9b31fcfd1d7fb6208d7cdf972326b32630c500/Registraion_6.jpg
+
+Step 6: After that a pop will flash Showing Device Registered Successfully. Click OK on it.
 
 OR
 
@@ -57,20 +105,6 @@ OR
 
        pip install -U ClointFusion
 
-Ubuntu :
---------
-
--  Clointfusion requires sudo rights to install on Ubuntu.
--  Additional Linux packages must be installed before Clointfusion can
-   be installed.
--  Make certain that Python 3.8 or Python 3.9 is installed.
--  Then, from the command prompt, execute the following command.
-
-   ::
-
-       sudo apt-get install python3-tk python3-dev
-       sudo pip3 install ClointFusion
-
 Importing
 =========
 
@@ -78,14 +112,6 @@ Importing
 
 Windows :
 ---------
-
-
--  **Terminal : Opens a Python interpreter with "import ClointFusion as cf " pre-loaded**
-
-
-   ::
-
-       cf_py
 
 -  **Code Editor or IDE : Import ClointFusion first, and then run the file in Python.**
 
@@ -101,31 +127,6 @@ Windows :
    ::
 
        python cf_bot.py
-
-Ubuntu :
---------
-
--  **Terminal : Opens a Python interpreter with the "import ClointFusion as cf" pre-loaded and the required sudo privileges.**
-   
-
-   ::
-
-       sudo cf_py
-
--  **Code Editor or IDE : Run the file with sudo permissions.**
-
-
-   ::
-
-       # cf_bot.py
-
-       import ClointFusion as cf
-
-       cf.browser_activate()
-
-   ::
-
-       sudo python3 cf_bot.py
 
 Features
 ========
@@ -154,20 +155,6 @@ Windows
 Open your favorite browser and go to `https://dost.clointfusion.com` and start building bots.
 
 Note : Make sure ClointFusion Tray is present or open terminal and type `cf_tray` to activate ClointFusion Tray menu.
-
-
-Ubuntu
-""""""
-
-    Open your favorite terminal and type ``sudo dost`` and then type
-    ``python3 dost.py``.
-
--  Want to change the chrome profile ?
-
-   -  Use\ ``python3 dost.py "Profile 1"``
-
-**Build BOT with DOST :** `DOST
-Website <https://dost.clointfusion.com/>`__
 
 WORK - The Work Hour Monitor
 """"""""""""""""""""""""""""
