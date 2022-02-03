@@ -56,16 +56,16 @@ With the use of .exe file of ClointFusion the user doesn't require to install Py
 How to download the EXE file?
 =============================
 
-Step 1: Download the EXE from the link given below
+Step 1: Install the EXE from the link given below
 
 Windows users can download EXE pre-loaded with Python 3.9 and ClointFusion package: 
 `Windows EXE <https://github.com/ClointFusion/ClointFusion/releases/download/v1.0.0/ClointFusion_Community_Edition.exe>`_
 
-Step 2: After download gets completed open the file and make sure that the checkbox of agreeing license terms and conditions is checked. Now Click on install.
+Step 2: After install gets completed open the file and make sure that the checkbox of agreeing license terms and conditions is checked. Now Click on install.
 
 .. image:: https://github.com/hetpatelofficial/ClointFusion/blob/c47dfc1beba702b30de1d0db0bcbbfdbcf51510c/Intallation_1.jpg
 
-Step 3: Let the download get completed and after the completion of the download a finish button will be appeared.
+Step 3: Let the install get completed and after the completion of the intall a finish button will be appeared.
 
 .. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Installation_2.jpg
 
@@ -128,7 +128,7 @@ Windows :
 
        python cf_bot.py
 
-Features
+Dost
 ========
 
 *    **DOST : Your friend in automation || Build RPA Bots without Code**
@@ -145,16 +145,6 @@ Using DOST, even a common man can create a BOT in minutes.
 -  Easy to Use.
 -  Build BOT in minutes.
 -  No prior Programming knowledge needed.
-
-**Launch DOST client**
-^^^^^^^^^^^^^^^^^^^^^^
-
-Windows
-"""""""
-
-Open your favorite browser and go to `https://dost.clointfusion.com` and start building bots.
-
-Note : Make sure ClointFusion Tray is present or open terminal and type `cf_tray` to activate ClointFusion Tray menu.
 
 WORK - The Work Hour Monitor
 """"""""""""""""""""""""""""
