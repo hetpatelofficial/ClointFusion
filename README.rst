@@ -146,6 +146,33 @@ Using DOST, even a common man can create a BOT in minutes.
 -  Build BOT in minutes.
 -  No prior Programming knowledge needed.
 
+How to use Dost?
+================
+
+Step 1: Open ClointFusion application and make sure you are registered on the app with your id. If not registered then go to Registration above where you can find the steps for registration.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Registraion_3.jpg
+
+Step 2:Click on Launch Dost Button and clointfusion.com will be opened.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Registraion_3.jpg
+
+Step 3: After the appearing of the dashboard click on the New Project Button.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Registraion_3.jpg
+
+Step 4: Now give the details of your project like Title of your project, Description of your project and visibility of you project that whether you want to keep it public or private. And after filling all the details click on Add button.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Registraion_3.jpg
+
+Step 5: Click on the Block button for the project you want to make or edit.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Registraion_3.jpg
+
+Step 6: Add the blocks for your project and after adding blocks for testing the output click on the Reload button. On clicking reload button a play button will be flashed and on clicking the play button. you can get your output for the program you created.
+
+.. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Registraion_3.jpg
+
 WORK - The Work Hour Monitor
 ============================
 
