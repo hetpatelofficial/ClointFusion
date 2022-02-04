@@ -147,7 +147,7 @@ Using DOST, even a common man can create a BOT in minutes.
 -  No prior Programming knowledge needed.
 
 WORK - The Work Hour Monitor
-""""""""""""""""""""""""""""
+============================
 
 
 ``WORK`` is an intelligent application that detects each and every work
