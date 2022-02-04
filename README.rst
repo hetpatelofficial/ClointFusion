@@ -76,7 +76,7 @@ Step 1: Open the ClointFusion application and you will be able to see an UI simi
 
 .. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Registration_2.jpg
 
-Step 2: On clicking register a website of domain dev.dost.clointfusion.com will be opened. You can sign in using Google or through email.
+Step 2: On clicking register a website of domain clointfusion.com will be opened. You can sign in using Google or through email.
 
 .. image:: https://github.com/hetpatelofficial/ClointFusion/blob/550c5da171c4af139136f4b6484aa3f830055ab2/Registraion_3.jpg
 
